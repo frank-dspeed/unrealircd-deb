@@ -1,3 +1,9 @@
+unrealircd (3.2.10.2-2) unstable; urgency=low
+
+  * Enabled SSL, Ziplinks, libcURL includes
+
+ -- Will Hughes <whlabratz@gmail.com>  Tues, 29 Apr 09:46:00 +1300
+
 unrealircd (3.2.10.2-1) unstable; urgency=low
 
   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
